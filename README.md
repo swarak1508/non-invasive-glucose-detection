@@ -19,3 +19,7 @@ Non-invasive blood glucose detection using saliva samples and NIR imaging with i
 
 ## 🔬 Future Scope
 - Integration with machine learning for glucose prediction
+
+## 👩‍💻 Author
+Swara K
+Medical Electronics Engineer
