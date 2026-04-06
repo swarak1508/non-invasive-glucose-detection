@@ -2,6 +2,7 @@
 A non-invasive approach for blood glucose estimation using saliva samples and Near-Infrared (NIR) imaging combined with MATLAB-based image processing.
 ## 📸 Sample Output
 <img width="301" height="122" alt="OUTPUT 1" src="https://github.com/user-attachments/assets/5f6987da-b935-44d6-a94f-74a40fcc9b71" />
+<img width="622" height="470" alt="OUTPUT 2" src="https://github.com/user-attachments/assets/2c3cc32e-cb54-4aa1-8e54-a9f9f9a1417d" />
 
 ## ▶️ How to Run
 1. Open MATLAB
